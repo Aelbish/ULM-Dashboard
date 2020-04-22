@@ -65,3 +65,7 @@ body {
 .dropdown-toggle::after {
     display: none;
 }
+
+.mb-5, .my-5 {
+    margin-bottom: 1.25rem!important;
+}
