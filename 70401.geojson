@@ -917,6 +917,7 @@
         "styleUrl": "#KMLStyler",
         "styleHash": "4eb04120",
         "description": "<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor=\"#E3E3F3\">\n<th>ZCTA5CE10</th>\n<td>70401</td>\n</tr><tr bgcolor=\"\">\n<th>AFFGEOID10</th>\n<td>8600000US70401</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>GEOID10</th>\n<td>70401</td>\n</tr><tr bgcolor=\"\">\n<th>ALAND10</th>\n<td>90640473</td>\n</tr><tr bgcolor=\"#E3E3F3\">\n<th>AWATER10</th>\n<td>480053</td>\n</tr></table></center>",
+        "color":"blue",
         "stroke": "#ff00ff",
         "stroke-opacity": 1,
         "stroke-width": 2,
