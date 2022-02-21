@@ -92,6 +92,6 @@
         </innerBoundaryIs>
       </Polygon>
     </Placemark>
-      <Link>"https://aelbish.github.io/ULM-Dashboard/cb_2017_28_bg_500k.zip"</Link></NetworkLink>
+      <Link><href>"https://aelbish.github.io/ULM-Dashboard/cb_2017_28_bg_500k.zip"</href></Link></NetworkLink>
   </Document>
 </kml>
