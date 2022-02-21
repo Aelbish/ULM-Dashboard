@@ -8,6 +8,7 @@
       <tilt>10</tilt>
       <heading>0</heading>
     </LookAt>
+    <NetworkLink>
     <name>cb_2016_us_zcta510_500k</name>
     <visibility>1</visibility>
     <Style id="KMLStyler">
@@ -91,5 +92,6 @@
         </innerBoundaryIs>
       </Polygon>
     </Placemark>
+      <Link>"https://aelbish.github.io/ULM-Dashboard/cb_2017_28_bg_500k.zip"</Link></NetworkLink>
   </Document>
 </kml>
