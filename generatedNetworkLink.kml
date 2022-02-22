@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Network Links</name>
+    <visibility>0</visibility>
+    <open>0</open>
+    <description>Network link for LA and MS</description>
+    <NetworkLink>
+      <name>70001</name>
+      <visibility>0</visibility>
+      <open>0</open>
+      <description>KML for zip code 70001</description>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Link>
+        <href>https://fmolhsdev.blob.core.windows.net/zipcodes/70001.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>70002</name>
+      <visibility>0</visibility>
+      <open>0</open>
+      <description>KML for zip code 70002</description>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Link>
+        <href>https://fmolhsdev.blob.core.windows.net/zipcodes/70002.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>70003</name>
+      <visibility>0</visibility>
+      <open>0</open>
+      <description>KML for zip code 70003</description>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Link>
+        <href>https://fmolhsdev.blob.core.windows.net/zipcodes/70003.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>70005</name>
+      <visibility>0</visibility>
+      <open>0</open>
+      <description>KML for zip code 70005</description>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Link>
+        <href>https://fmolhsdev.blob.core.windows.net/zipcodes/70005.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>70006</name>
+      <visibility>0</visibility>
+      <open>0</open>
+      <description>KML for zip code 70006</description>
+      <refreshVisibility>0</refreshVisibility>
+      <flyToView>0</flyToView>
+      <Link>
+        <href>https://fmolhsdev.blob.core.windows.net/zipcodes/70006.kml</href>
+      </Link>
+    </NetworkLink>
+  </Folder>
+</kml>
