@@ -6,7 +6,7 @@
     <open>0</open>
     <description>Network link example 1</description>
     <NetworkLink>
-      <name>70402</name>
+      <name>70401</name>
       <visibility>0</visibility>
       <open>0</open>
       <description>A simple server-side script that generates a new random
@@ -14,11 +14,11 @@
       <refreshVisibility>0</refreshVisibility>
       <flyToView>0</flyToView>
       <Link>
-        <href>https://aelbish.github.io/ULM-Dashboard/70402.kml</href>
+        <href>https://aelbish.github.io/ULM-Dashboard/70401.kml</href>
       </Link>
     </NetworkLink>
         <NetworkLink>
-      <name>70401</name>
+      <name>70402</name>
       <visibility>0</visibility>
       <open>0</open>
       <description>A simple server-side script that generates a new random
