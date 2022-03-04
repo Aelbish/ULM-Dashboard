@@ -4,8 +4,8 @@
     <name>covid</name>
     <Style id="severityHigh">
       <LineStyle>
-        <color>ff781414</color>
-        <width>3</width>
+        <color>64781414</color>
+        <width>2</width>
       </LineStyle>
       <PolyStyle>
         <color>5f1400ff</color>
@@ -13,8 +13,8 @@
     </Style>
     <Style id="severitySubstantial">
       <LineStyle>
-        <color>ff781414</color>
-        <width>3</width>
+        <color>64781414</color>
+        <width>2</width>
       </LineStyle>
       <PolyStyle>
         <color>5f1478ff</color>
@@ -22,8 +22,8 @@
     </Style>
     <Style id="severityModerate">
       <LineStyle>
-        <color>ff781414</color>
-        <width>3</width>
+        <color>64781414</color>
+        <width>2</width>
       </LineStyle>
       <PolyStyle>
         <color>5f14f0ff</color>
@@ -31,15 +31,15 @@
     </Style>
     <Style id="severityLow">
       <LineStyle>
-        <color>ff781414</color>
-        <width>3</width>
+        <color>64781414</color>
+        <width>2</width>
       </LineStyle>
       <PolyStyle>
         <color>5ff0dc14</color>
       </PolyStyle>
     </Style>
     <Placemark>
-      <description><![CDATA[<h3><center>70401</center></h3>Cases: <strong>23</strong>]]></description>
+      <description><![CDATA[<center><strong>70401</strong><br/>Cases: <strong>23</strong></center>]]></description>
       <styleUrl>#severityLow</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -225,7 +225,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70001</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70001</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -271,7 +271,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70002</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70002</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -308,7 +308,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70003</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70003</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -393,7 +393,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70005</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70005</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -434,7 +434,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70006</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70006</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -471,7 +471,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70030</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70030</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -599,7 +599,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70031</center></h3>Cases: <strong>25</strong>]]></description>
+      <description><![CDATA[<center><strong>70031</strong><br/>Cases: <strong>25</strong></center>]]></description>
       <styleUrl>#severitySubstantial</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -632,7 +632,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70032</center></h3>Cases: <strong>23</strong>]]></description>
+      <description><![CDATA[<center><strong>70032</strong><br/>Cases: <strong>23</strong></center>]]></description>
       <styleUrl>#severityLow</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -669,7 +669,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70036</center></h3>Cases: <strong>23</strong>]]></description>
+      <description><![CDATA[<center><strong>70036</strong><br/>Cases: <strong>23</strong></center>]]></description>
       <styleUrl>#severityLow</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -745,7 +745,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70037</center></h3>Cases: <strong>23</strong>]]></description>
+      <description><![CDATA[<center><strong>70037</strong><br/>Cases: <strong>23</strong></center>]]></description>
       <styleUrl>#severityLow</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -993,7 +993,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70038</center></h3>Cases: <strong>24</strong>]]></description>
+      <description><![CDATA[<center><strong>70038</strong><br/>Cases: <strong>24</strong></center>]]></description>
       <styleUrl>#severityModerate</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1049,7 +1049,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70039</center></h3>Cases: <strong>24</strong>]]></description>
+      <description><![CDATA[<center><strong>70039</strong><br/>Cases: <strong>24</strong></center>]]></description>
       <styleUrl>#severityModerate</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1126,7 +1126,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70040</center></h3>Cases: <strong>24</strong>]]></description>
+      <description><![CDATA[<center><strong>70040</strong><br/>Cases: <strong>24</strong></center>]]></description>
       <styleUrl>#severityModerate</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1657,7 +1657,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70041</center></h3>Cases: <strong>24</strong>]]></description>
+      <description><![CDATA[<center><strong>70041</strong><br/>Cases: <strong>24</strong></center>]]></description>
       <styleUrl>#severityModerate</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1790,7 +1790,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70041</center></h3>Cases: <strong>24</strong>]]></description>
+      <description><![CDATA[<center><strong>70041</strong><br/>Cases: <strong>24</strong></center>]]></description>
       <styleUrl>#severityModerate</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1866,7 +1866,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70043</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70043</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1933,7 +1933,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70047</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70047</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -1988,7 +1988,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70049</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70049</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2067,7 +2067,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70050</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70050</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2126,7 +2126,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70051</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70051</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2198,7 +2198,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70052</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70052</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2237,7 +2237,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70052</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70052</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2269,7 +2269,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70053</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70053</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2304,7 +2304,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70056</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70056</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
@@ -2344,7 +2344,7 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <description><![CDATA[<h3><center>70057</center></h3>Cases: <strong>26</strong>]]></description>
+      <description><![CDATA[<center><strong>70057</strong><br/>Cases: <strong>26</strong></center>]]></description>
       <styleUrl>#severityHigh</styleUrl>
       <Polygon>
         <extrude>false</extrude>
